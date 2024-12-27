@@ -113,6 +113,3 @@ Contributions are welcome! If you have new ideas or improvements, please feel fr
 
 ---
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
